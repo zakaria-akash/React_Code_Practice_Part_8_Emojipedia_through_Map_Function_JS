@@ -1,4 +1,4 @@
-const emojipedia = [
+const emojidata = [
   {
     id: 1,
     emoji: "💪",
@@ -21,4 +21,4 @@ const emojipedia = [
       "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
   }
 ];
-export default emojipedia;
+export default emojidata;

@@ -1,12 +1,12 @@
 import React from "react";
-import EmoCollection from "./EmoCollection";
+import ReadAllEmojis from "./ReadAllEmojis";
 function App() {
   return (
     <div>
       <h1>
         <span>emojipedia</span>
       </h1>
-      <EmoCollection />
+      <ReadAllEmojis />
     </div>
   );
 }
